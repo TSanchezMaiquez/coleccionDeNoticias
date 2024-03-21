@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to right, #d4a7ee, rgb(77, 31, 241));
+    
+}
+article{
+    display: inline-block;
+    vertical-align: top;
+    width: 280px;
+    height: 280px;
+    border-radius: 15px;
+    background-color: white;
+    margin-right: 15px;
+    margin-top: 15px;
+    padding-top: 15px;
+}
+.two{
+    margin-left: 20px;
+    height: 400px;
+}
+.four{
+    height: 400px;
+}
+.one img, .tree img {
+    width: 250px;
+    height: 50%;
+    margin: 15px;
+
+}
+.two img, .four img {
+    width: 90%;
+    height: 65%;
+    margin: 15px;
+
+}
+h1 {
+    margin: 15px;
+    margin-right: 50px;
+}
+time {
+    margin: 15px;
+    margin-top: 50px;
+    font-size:12px;
+}
